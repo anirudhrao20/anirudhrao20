@@ -1,4 +1,4 @@
-## Hey 👋, I'm Anirudh Rao!  
+## Hey 👋, I'm Anirudh (Ani) Rao!  
   
 
 <a href="https://github.com/anirudhrao20" target="_blank">
@@ -26,7 +26,7 @@ In my free time, I enjoy staying up-to-date with the latest trends and developme
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Weather Central]([https://github.com/anirudhrao20/Weather-Central])  
   
 
 - 🌱 I’m currently learning Azure and Kubernetes  
