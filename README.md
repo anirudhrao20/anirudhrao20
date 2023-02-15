@@ -29,7 +29,7 @@ In my free time, I enjoy staying up-to-date with the latest trends and developme
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Azure and Kubernetes  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
