@@ -26,7 +26,7 @@ In my free time, I enjoy staying up-to-date with the latest trends and developme
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Weather Central](https://github.com/anirudhrao20/Weather-Central)  
+- 🔭 I’m currently working on [Mystic Academy](https://github.com/anirudhrao20/Mystic-Academy)  
   
 
 - 🌱 I’m currently learning Azure and Kubernetes  
