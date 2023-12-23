@@ -12,11 +12,13 @@
 
 
 ### Glad to see you here!  
-As a computer science major with a passion for app development and a focus on Apple operating systems such as iOS and macOS, I am a highly motivated and dedicated individual with a strong desire to create innovative, user-friendly software. In my previous projects, I have leveraged my expertise in utilizing cutting-edge technologies such as SwiftUI, Google's Firebase, and Flutter for cross-platform development to build robust and scalable mobile applications. I am also well-versed in communication and project management tools such as Slack and Jira.
+As a Computer Science major with a deep-rooted interest in Machine Learning and Artificial Intelligence, my academic and professional journey is marked by a commitment to advancing these fields. At Apple, as a Machine Learning Engineer, I specialize in the development and application of Large Language Models (LLMs), engineering of frameworks and architectures, as well as other AI technologies, which are pivotal in driving innovation and efficiency in our products and experiences.
 
-Through my coursework and personal projects, I have honed my skills in app design, user experience, and project management, and I am eager to bring my talents to a dynamic and challenging work environment. Whether working on my own or as part of a team, I am committed to producing high-quality, well-designed apps that provide users with a seamless and enjoyable experience.
+My expertise extends to leveraging vector databases and advanced ML algorithms, enabling me to contribute significantly to complex data interpretation and model optimization. Proficient in communication and project management tools like Slack and Jira, I ensure streamlined collaboration in fast-paced environments.
 
-In my free time, I enjoy staying up-to-date with the latest trends and developments in the tech industry, and I am always exploring new ways to expand my knowledge and improve my skills. Whether through online resources or hands-on experimentation, I am constantly pushing myself to be the best app developer I can be.
+Through rigorous coursework and challenging projects, I have honed my skills in AI, particularly in the realm of machine learning, data analysis, and algorithm development. My passion for AI drives me to stay abreast of the latest industry trends and continually expand my knowledge through research and hands-on experimentation.
+
+I am eager to apply my machine learning and AI expertise in a dynamic and challenging work environment, contributing to meaningful advancements in technology and software solutions.
   
   
 
