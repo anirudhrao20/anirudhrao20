@@ -26,7 +26,7 @@
 
 I build **production-scale AI systems** that serve millions of people. Currently at **Apple** architecting generative AI and RAG pipelines — and pursuing my **MS in CS (AI) at Georgia Tech** to keep pushing the frontier.
 
-> *~$80M in annual revenue influenced. 8M+ LLM evaluations processed. 107K+ documents retrieved with >98% accuracy.*
+> *~$180M in annual revenue influenced. 8M+ LLM evaluations processed. 107K+ documents retrieved with >98% accuracy.*
 
 When I'm not shipping ML systems at Apple, I'm deep in coursework, tinkering on side projects, and figuring out how to make language models less wrong.
 
@@ -108,8 +108,8 @@ When I'm not shipping ML systems at Apple, I'm deep in coursework, tinkering on 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=anirudhrao20&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhrao20&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anirudhrao20&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anirudhrao20&theme=github_dark" />
 
 </div>
 
