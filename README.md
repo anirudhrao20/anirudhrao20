@@ -26,7 +26,7 @@
 
 I build **production-scale AI systems** that serve millions of people. Currently at **Apple** architecting generative AI and RAG pipelines — and pursuing my **MS in CS (AI) at Georgia Tech** to keep pushing the frontier.
 
-> *~$180M in annual revenue influenced. 8M+ LLM evaluations processed. 107K+ documents retrieved with >98% accuracy.*
+> *~$80M in annual revenue influenced. 8M+ LLM evaluations processed. 107K+ documents retrieved with >98% accuracy.*
 
 When I'm not shipping ML systems at Apple, I'm deep in coursework, tinkering on side projects, and figuring out how to make language models less wrong.
 
